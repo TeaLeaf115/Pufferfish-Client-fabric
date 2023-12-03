@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.tealeaf115.pufferfishclient.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
